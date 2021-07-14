@@ -1,0 +1,7 @@
+organization=skylu456
+projectKey=skylu456_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=skylu456_ProyectoJavaMaven
+ceTaskId=AXqiBF6UyQMh4RvsfQJN
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqiBF6UyQMh4RvsfQJN
